@@ -1,0 +1,9 @@
+# One article URL per line. Blank lines and lines starting with # are ignored.
+# A bad URL is marked "# BAD" in this file and skipped on the next run.
+
+# BAD https://www.reutersconnect.com/item/environmentalist-condemn-the-philippine-governments-national-mining-policy/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMU5VUlBITzAwMEJYQTE0SA — Article fetch failed (403) https://www.reutersconnect.com/item/environmentalist-condemn-the-philippine-governments-national-mining-policy/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMU5VUlBITzAwMEJYQTE0SA
+
+https://www.manilatimes.net/2026/11/09/expats-diplomats/sweden-philippines-deepen-ties-through-sustainable-mining-cooperation/2464679
+https://www.manilatimes.net/2026/11/08/regions/mining-villagers-take-charge-of-p115m-didipio-water-system/2464598/amp
+https://newswav.com/article/dmci-holdings-9-month-profit-climbs-28-to-p15b-A2611_88Pvyk
+https://www.manilatimes.net/2026/11/08/tmt-newswire/nickel-asia-subsidiaries-bag-seven-awards-at-inaugural-tsm-excellence-awardsnickel-asia-subsidiaries-bag-seven-awards-at-inaugural-tsm-excellence-awards/2464493
